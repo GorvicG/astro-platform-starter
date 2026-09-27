@@ -1,8 +1,6 @@
-# Опыт эксплуатации Hermes и OpenClaw
+# Материалы Hermes переехали
 
-[Индекс проблем с момента оформления VPS](docs/problem-index.md) — перечень случаев без разборов и решений.
-
-Если у вас есть вопрос или похожий случай, [напишите через GitHub Issues](https://github.com/GorvicG/astro-platform-starter/issues/new/choose). Личный адрес и почту публиковать не нужно.
+Актуальный публичный проект с [86 разборами проблем](https://github.com/gorchakovve/hermes-agent-experience) и [открытым обсуждением](https://github.com/gorchakovve/hermes-agent-experience/discussions/1) находится в личном аккаунте `gorchakovve`. Этот репозиторий — прежний Astro starter и больше не используется для публикации опыта.
 
 # Astro on Netlify Platform Starter
 

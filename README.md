@@ -2,6 +2,8 @@
 
 [Индекс проблем с момента оформления VPS](docs/problem-index.md) — перечень случаев без разборов и решений.
 
+Если у вас есть вопрос или похожий случай, [напишите через GitHub Issues](https://github.com/GorvicG/astro-platform-starter/issues/new/choose). Личный адрес и почту публиковать не нужно.
+
 # Astro on Netlify Platform Starter
 
 [Live Demo](https://astro-platform-starter.netlify.app/)

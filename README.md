@@ -1,3 +1,7 @@
+# Опыт эксплуатации Hermes и OpenClaw
+
+[Индекс проблем с момента оформления VPS](docs/problem-index.md) — перечень случаев без разборов и решений.
+
 # Astro on Netlify Platform Starter
 
 [Live Demo](https://astro-platform-starter.netlify.app/)
